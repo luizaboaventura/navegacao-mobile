@@ -9,16 +9,15 @@ Projeto acadêmico ADS UniSENAI.
 - React
 - Styled Components
 
-
-
 ## 💻 Resultado
 <b>Interaja com o resultado [aqui](https://navegacao-mobile.vercel.app/).</b>
 
 ![resultado](https://github.com/luizaboaventura/navegacao-mobile/assets/110929562/3a56ecfc-7ae9-4928-bb30-b98968ff81e2)
 
 ## Instruções para execução
+Realize o download ou clone.
 No terminal:
 <p><code>npm install</code></p>
 <p><code>npm start</code></p>
 </br>
-Acessar: http://localhost:3000
+Acesse no navegador: http://localhost:3000

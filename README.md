@@ -10,7 +10,7 @@ Projeto acadêmico ADS UniSENAI.
 - Styled Components
 
 ## 💻 Resultado
-<b>Interaja com o resultado [aqui](https://navegacao-mobile.vercel.app/).</b>
+<b>Interaja com o resultado <a href='https://navegacao-mobile.vercel.app/' target="_blank">aqui</a>.</b>
 
 ![resultado](https://github.com/luizaboaventura/navegacao-mobile/assets/110929562/3a56ecfc-7ae9-4928-bb30-b98968ff81e2)
 
